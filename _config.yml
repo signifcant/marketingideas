@@ -1,5 +1,5 @@
 ---
-title: Affiliates Theme for Jekyll
+title: Marketing Ideas
 timezone: UTC
 collections:
   posts:
@@ -8,9 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Affiliates Theme for Jekyll
-description: Jekyll Theme for Blogging
-meta_description: Jekyll theme for blogging.
+name: Marketing Ideas
+description: A blog for marketing discovery and discussion
+meta_description: marketing ideas for life and business.
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 paginate: 12
